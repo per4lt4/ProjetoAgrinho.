@@ -32,6 +32,8 @@ body {
   width: 80%;
   margin: 0 auto;
   padding: 20px;
+
+  height: 200px;
 }
 
 /* Cabeçalho */
@@ -42,6 +44,7 @@ header {
   margin-bottom: 20px;
   font-weight: 800;
   color: #00ff88;
+  
 }
 
 /* Botões de seleção */
@@ -57,7 +60,7 @@ header {
   font-family: popins;
   margin-right: 10px;
   padding: 10px 20px;
- 
+ color: #6a6262;
   border-radius: 5px;
   cursor: pointer;
   background-color: #003a40;
